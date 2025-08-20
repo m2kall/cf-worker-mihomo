@@ -59,7 +59,7 @@ Mihomo（Clash Meta）是一款高效的订阅汇聚工具，支持快速生成 
 - [Git](https://git-scm.com/)
 
 #### 方法一：一键部署
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Kwisma/cf-worker-mihomo)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/m2kall/cf-worker-mihomo)
 
 1. 点击上方按钮
 2. 登录Vercel账号
@@ -82,7 +82,7 @@ npm run deploy
 ### 2️⃣ Cloudflare Workers 部署
 
 #### 方法一：一键部署
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Kwisma/cf-worker-mihomo)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/m2kall/cf-worker-mihomo)
 
 **配置参数**：
 - 构建命令：`npm run build`
